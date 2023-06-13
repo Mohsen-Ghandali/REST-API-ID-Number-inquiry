@@ -1,0 +1,19 @@
+{
+    "user": [
+        {
+            "id": "0123456789",
+            "firstName": "Mohsen",
+            "lastName": "Ghandali"
+        },
+        {
+            "id": "9876543210",
+            "firstName": "Jack",
+            "lastName": "Lubcke"
+        },
+        {
+            "id": "1122334455",
+            "firstName": "Marcus",
+            "lastName": "Yens"
+        }
+    ]
+}

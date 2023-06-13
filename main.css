@@ -1,0 +1,41 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color:aquamarine;
+}
+
+h1{
+  text-align: center;
+  margin: 20px 0;
+  font-size: 18px;
+  color: red;
+}
+
+h2{
+  margin: 20px;
+  font-size: 16px;
+}
+span{
+  padding: 0 20px;
+  color: brown;
+  font-weight: bolder;
+}
+hr{
+margin-bottom: 20px;
+}
+input{
+  margin-left: 32px;
+  padding: 4px;
+}
+button{
+padding: 4px;
+cursor: pointer;
+font-weight: bold;
+}
